@@ -1,0 +1,5 @@
+clickstream_telemetry.db
+clickstream_telemetry.db-journal
+__pycache__/
+*.pyc
+.env
